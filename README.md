@@ -22,3 +22,6 @@ Finally, by adding the correct IP address on my wireless router for both port fo
 I've tested this project, and it works on Linux, iOS, MacOS, Windows, and Android.
 
 The completion of this project has allowed me to use a configurable, secure, and easily accessible storage solution.
+
+
+<img src="IMG_3446.jpeg" width="500"/>
