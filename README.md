@@ -16,7 +16,10 @@ The frameworks/codebases used for this project are:
 </ul>
 
 The method that I used to set this project up correctly was using PiVPN, https://pivpn.io/#install, to install and automatically configure WireGuard for my Raspberry Pi.
-After fully configuring WireGuard, I was able to follow the instructions on this repo, https://github.com/OpenMediaVault-Plugin-Developers/installScript
+After fully configuring WireGuard. Also if you are following this project, you would need to add a user profile for wireguard using the "pivpn add" command.
+
+I was able to follow the instructions on this repo, https://github.com/OpenMediaVault-Plugin-Developers/installScript. This allowed me
+to install OpenMediaVault on the Pi.
 
 Finally, by adding the correct IP address on my wireless router for both port forwarding and for IP reservation, the WireGuard VPN and NAS systems were working.
 I've tested this project, and it works on Linux, iOS, MacOS, Windows, and Android.
