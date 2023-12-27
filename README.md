@@ -29,4 +29,6 @@ The completion of this project has allowed me to use a configurable, secure, and
 
 <img src="IMG_3446.jpeg" width="500"/>
 
-Also in terms of maintaining this system, the only issues that I've had required an operating system upgrade for the Pi. If you get an error where the device doesn't seem to be producing an IP address on the router, it may need a re-image to keep an up to date OS on the Pi.
+Also in terms of maintaining this system, the only issues that I've had required an operating system upgrade for the Pi.
+If you get an error where the device doesn't seem to be producing an IP address on the router, it may need a re-image to keep an up to date OS on the Pi.
+No Data was lost when re-imaging the device, and re-installing the software.
